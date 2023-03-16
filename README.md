@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👩🏻‍💻 Software Engineer
 
 <!--
 **tiffanysimione/TiffanySimione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Thanks for stopping by!
+I enjoy tackling new challenges and creating beautiful experiences from scratch. I'm excited to use my problem-solving skills and creativity to a lifetime of learning and growth.
