@@ -1,7 +1,7 @@
 ### 👩🏻‍💻 Software Engineer
 
 
-[![Porfolio](https://img.shields.io/badge/Portfolio-5e5e5e?style=for-the-badge)
+![Porfolio](https://img.shields.io/badge/Portfolio-5e5e5e?style=for-the-badge)
 [![Tiffanys's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiffanysimione/)
 
 
