@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Thanks for stopping by!
-I enjoy tackling new challenges and creating beautiful experiences from scratch. I'm excited to use my problem-solving skills and creativity to a lifetime of learning and growth.
+As a highly motivated and enthusiastic individual, I find great satisfaction in tackling new challenges and creating beautiful experiences from scratch. There's something exhilarating about taking on a project that is completely new and using my skills and creativity to turn it into something incredible
 
 
 #### Languages and Tools
