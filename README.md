@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 #### Thanks for stopping by!
 As a highly motivated and enthusiastic individual, I find great satisfaction in tackling new challenges and creating beautiful experiences from scratch. I'm excited to use my problem-solving skills and creativity to a lifetime of learning and growth.
 
-
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Currently Training for an IronMan, Environmental Enthusiast, Dog Lover 
 
 
 #### Languages and Tools
